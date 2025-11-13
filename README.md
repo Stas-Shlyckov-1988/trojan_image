@@ -26,7 +26,8 @@ EXIF LensModel: iPhone SE back camera 4.15mm f/2.2
 [GPS Information]  
 Latitude: 55.616919°  
 Longitude: 36.667703°  
-
+  
+  https://geotree.ru/coordinates?lat=55.60783&lon=36.63344&z=14&mlat=55.607883&mlon=36.631947  
  ![Аэдром кубинка штаб.](archive/image1.jpg) 
     
 python3 getGPS.py  
@@ -53,6 +54,8 @@ EXIF LensModel: iPhone SE back camera 4.15mm f/2.2
 [GPS Information]  
 Latitude: 55.607883°  
 Longitude: 36.631947°  
-
+  
+  https://geotree.ru/coordinates?lat=55.60783&lon=36.63344&z=14&mlat=55.607883&mlon=36.631947  
  ![Аэдром кубинка штаб.](archive/image4.jpg) 
-![Посадка в Кубинке.](archive/image13.jpg) 
+![Посадка в Кубинке.](archive/image13.jpg)  
+Я военный летчик!
