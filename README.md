@@ -1,6 +1,8 @@
 # trojan image  
+   
+![Аэдром кубинка.](archive/image.jpg)
 
-tas@stas-HP-Laptop-15s-fq2xxx:~/python/trojan$ python3 getGPS.py  
+:~/python/trojan$ python3 getGPS.py  
 Enter the path to the image: archive/image.jpg  
 [+] Extracting basic metadata...  
   
